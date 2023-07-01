@@ -8,7 +8,7 @@ module.exports = {
       new ButtonBuilder()
         .setCustomId('activate-modal')
         .setLabel('Request Access')
-        .setStyle(ButtonStyle.Danger)
+        .setStyle(ButtonStyle.Success)
     ),
   async execute(interaction) {
     const modalToDisplay = accessRequestModal;
