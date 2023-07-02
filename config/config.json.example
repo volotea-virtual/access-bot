@@ -1,0 +1,15 @@
+{
+  "airlineID": "Your Airline ID",
+  "vamsysKey": "vAMSYS key",
+  "discordToken": "Discord Bot Token",
+  "servers": {
+    "Server ID": { 
+      "accessRoleId": ["Role ID"], 
+      "nickSeparator": " - ",
+      "roleRemoval": {
+        "enabled": true,
+        "roleId": ["Role ID"]
+      }
+    }
+  }
+}
