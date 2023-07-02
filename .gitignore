@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 # repository specific
-!config/config.json
+config/config.json
